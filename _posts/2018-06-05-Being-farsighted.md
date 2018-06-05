@@ -4,8 +4,7 @@ title:  "Being farsighted"
 date:   2018-6-05 16:53:00 -0600
 categories: jekyll update
 ---
-This is the first thread in June. It is sad to see that many classmates have submitted their papers for review, but no breakthrough is made by
-by me recently. 
+This is the first thread in June. It is sad to see that many classmates have submitted their manuscripts for review, but no breakthrough is made by me recently. 
 
 In my mind, it was unfair. Since in terms of amount of work and difficulties, my research is uncomparable. How could I be left behind by the other
 students given that I am so hard working and ternacious?
@@ -23,8 +22,8 @@ But when I say that there will soon be a high tide of revolution in China, I am 
 
 It is like a ship far out at sea whose mast-head can already be seen from the shore; 
 
-it is like the morning sun in the east whose shimmering rays are visible from a high mountain top; 
+It is like the morning sun in the east whose shimmering rays are visible from a high mountain top; 
 
-it is like a child about to be born moving restlessly in its mother's womb.
+It is like a child about to be born moving restlessly in its mother's womb.
 
 ![Columbus's exploration ships](\images\Columbus' ships.png)
