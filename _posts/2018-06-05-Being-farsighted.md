@@ -20,6 +20,7 @@ In the coming days, I am going to figure out the main factors and their interact
 
 Finally, I would like to end this thread with a excerpt from selection work of chairman mao:
 But when I say that there will soon be a high tide of revolution in China, I am emphatically not speaking of something which in the words of some people "is possibly coming", something illusory, unattainable and devoid of significance for action. 
+
 It is like a ship far out at sea whose mast-head can already be seen from the shore; 
 
 it is like the morning sun in the east whose shimmering rays are visible from a high mountain top; 
