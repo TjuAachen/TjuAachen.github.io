@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Being farsighted"
+title:  "Be farsighted"
 date:   2018-6-05 16:53:00 -0600
 categories: jekyll update
 ---
@@ -17,7 +17,7 @@ for them to know graduation within due time can bring them nothing but a proof o
 
 In the coming days, I am going to figure out the main factors and their interactions in my research. Based on this, I will embrace the coming dawn and be rewarded with a joy of discovery.
 
-Finally, I would like to end this thread with a excerpt from selection work of chairman mao:
+Finally, I would like to end this thread with an excerpt from selection work of chairman mao:
 But when I say that there will soon be a high tide of revolution in China, I am emphatically not speaking of something which in the words of some people "is possibly coming", something illusory, unattainable and devoid of significance for action. 
 
 It is like a ship far out at sea whose mast-head can already be seen from the shore; 
