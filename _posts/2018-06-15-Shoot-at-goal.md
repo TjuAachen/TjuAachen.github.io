@@ -5,7 +5,7 @@ date:   2018-6-15 01:40:00 -0600
 categories: jekyll update
 ---
 It is in the middle of June. I just finished revising the progress report at noon. When I reviewed it, one of the comments left by professor
-Xin embrassed me:"You have not shot at the goal even after the world cup has already kicked off." In a humouros and metorphorical way, professor 
+Xin embrassed me:"You have not shot at the goal even after the world cup has already kicked off." In a humourous and metorphorical way, professor 
 complained to me of my slow progress. I felt guilty at first but then this sense diminished gradually.Perhaps it implied that I can consider other people's comments with sanity now and take a critical attitude to them.
 
 To ease the tension, I immersed into the world of literature and enjoyed the joy of reading tonight. I were aware clearly that I ought to make a concrete plan and 
