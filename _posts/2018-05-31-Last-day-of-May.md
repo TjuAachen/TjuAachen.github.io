@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 There are only several minutes before a new month. I can't resist the lament over the flying of time again. In addition, the deadline 
-June 15th is approaching. But even now, I have not made any big breakthrough and still am busy with plugging knowledge gap. What is worse is
+June 15th is approaching. But even now, I have not made any big breakthrough and am still busy with plugging knowledge gap. What is worse is
 some of my classmates have already published their results and reached the graduation requirement. It is really a suck to me.
 
 Nevertheless, I have to peservere with this research project and never ever give up since it is a great opprtunity to improve myself and prove
